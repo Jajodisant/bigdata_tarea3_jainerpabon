@@ -62,10 +62,10 @@ Implementación práctica de procesamiento batch y streaming con Apache Spark y 
 análisis de datos en entornos de Big Data.
 
 ## **👤 Autoría**
-**Estudiante: Jainer Pabón
-Tutor: Jaime Rubiano Llorente
-Curso: Big Data
-Universidad: UNAD – Escuela de Ciencias Básicas, Tecnología e Ingeniería**
+**Estudiante:** Jainer Pabón
+**Tutor:** Jaime Rubiano Llorente
+**Curso:** Big Data
+**Universidad:** UNAD – Escuela de Ciencias Básicas, Tecnología e Ingeniería
 
 
 
