@@ -10,7 +10,6 @@ Este proyecto corresponde a la Tarea 3: Procesamiento de Datos con Apache Spark 
   │   ├── spark_ui_environment.png
   │   ├── spark_ui_jobs.png
   │   ├── kafka_producer_output.png
-  │   └── spark_streaming_console.png
   │
   ├── scripts/
   │   ├── batch_supermarket_sales.py
@@ -20,6 +19,22 @@ Este proyecto corresponde a la Tarea 3: Procesamiento de Datos con Apache Spark 
   ├── sales.csv
   ├── README.md
   └── .gitignore
+
+# **⚙️ Contenido del proyecto**
+## **1️⃣ Procesamiento Batch (por lotes)**
+**Script:** scripts/batch_supermarket_sales.py
++ Carga el archivo real sales.csv.
++ Realiza limpieza y transformación de datos.
++ Calcula el promedio de ventas por sucursal.
++ Guarda los resultados procesados en la carpeta resultados_batch/.
+
+
+
+
+
+
+
+
 
 
 
